@@ -1,0 +1,30 @@
+{
+  "name": "crashken-jasmine",
+  "version": "0.0.1",
+  "description": "Crashken lib for Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devicelabbr/crashken-jasmine.git"
+  },
+  "keywords": [
+    "Crasken",
+    "Mobile",
+    "Testing",
+    "Jasmine"
+  ],
+  "author": "Irineu Antunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devicelabbr/crashken-jasmine/issues"
+  },
+  "homepage": "https://github.com/devicelabbr/crashken-jasmine#readme",
+  "devDependencies": {
+    "crashken-client": "0.0.1",
+    "jasmine": "^2.6.0",
+    "lodash": "^4.17.4"
+  }
+}
